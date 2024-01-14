@@ -1,4 +1,3 @@
-
 // Set the countdown date
 var countDownDate = new Date(document.querySelector(".countdown").getAttribute("data-date")).getTime();
 // Update the count down every 1 second
